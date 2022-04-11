@@ -1,0 +1,14 @@
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\bin\Debug\netcoreapp3.1\HangmanTryGame.exe
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\bin\Debug\netcoreapp3.1\HangmanTryGame.deps.json
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\bin\Debug\netcoreapp3.1\HangmanTryGame.runtimeconfig.json
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\bin\Debug\netcoreapp3.1\HangmanTryGame.runtimeconfig.dev.json
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\bin\Debug\netcoreapp3.1\HangmanTryGame.dll
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\bin\Debug\netcoreapp3.1\HangmanTryGame.pdb
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.csproj.AssemblyReference.cache
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.AssemblyInfoInputs.cache
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.AssemblyInfo.cs
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.csproj.CoreCompileInputs.cache
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.dll
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.pdb
+C:\Users\haile\source\repos\HangmanTryGame\HangmanTryGame\obj\Debug\netcoreapp3.1\HangmanTryGame.genruntimeconfig.cache

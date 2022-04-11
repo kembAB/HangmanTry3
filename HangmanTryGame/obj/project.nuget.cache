@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qo/7q619SE8WV1/gJ2OyLudiPmPXLrSfLu2yJm33tXz0F0dr+RtU8Vt3kAqQqgHpyn4Fg/MRXlIEdJnx5ApasA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haile\\source\\repos\\HangmanTryGame\\HangmanTryGame\\HangmanTryGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
